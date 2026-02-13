@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # devOps-2026-hard-task
 
 # Лабораторная работа: Git — revert, reset, rebase
@@ -757,3 +758,7 @@ ls .github/workflows/ci.yml       # CI на месте
 | `git rebase -i` | Интерактивное редактирование истории | squash, drop, reword, edit, reorder |
 | `git rebase <branch>` | Перенос коммитов на вершину указанной ветки | Обновление feature-ветки |
 | `git rebase --onto` | Пересадка ветки на другую базу | Изменение точки ответвления |
+=======
+# Task Manager API
+Простой REST API для управления задачами.
+>>>>>>> b7b7879 (init: структура проекта и health-check эндпоинт)
