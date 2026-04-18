@@ -526,7 +526,7 @@ grep "delete_all_users" src/auth.py  # ничего не найдено
 **Проверка:**
 ```bash
 git log --oneline  # новое сообщение коммита
-```
+``
 
 ---
 
